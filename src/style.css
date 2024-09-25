@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: #2B344B;
+  font-family: Inter, sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#app {
+  display: flex;
+  transform: scale(.75);
+}
